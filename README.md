@@ -1,3 +1,3 @@
 # glueshop
 
-This workshop meant for learning and experimenting Python.
+This workshop is meant for learning and experimenting with Python.
